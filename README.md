@@ -1,10 +1,8 @@
 # Overview
 
-CheapMarket is an e-commerce website application where users can find and buy groceries and clothing item at a relatively low price.
+ifoodEstimate is a software that helps companies estimate the cost of a meal from a customer order. There is a menu provided to the customer and once the customer chooses a meal, the software gives an estimate to the restaurant company how much it is going to them to make that meal based on the various ingredients prices from the market.
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
+This software will help restaurants businesses to get a quick estimate of how much it cost them to make a meal. Then, it will be easier to see how much they see the revenue. 
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
