@@ -22,6 +22,7 @@ I used the Java language with the HashMap built in function to create this softw
 
 - [LinkedIn Learning Java 11](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?autoSkip=true&autoplay=true&resume=false&u=2153100)
 - [LinkedIn Learning Data Structures](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?autoplay=true&u=2153100)
+- [W3 Schools](https://www.w3schools.com/java/default.asp)
 
 # Future Work
 
