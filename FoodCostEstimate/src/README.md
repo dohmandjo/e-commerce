@@ -4,17 +4,11 @@ FoodCostEstimate is a software that helps restaurant estimate the cost of a meal
 
 This software will help restaurants businesses to get a quick estimate of how much it is going to cost them to make the meal. Then, it will be easier for them to see how much they make from this service. 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [FoodCostEstimate Demo Video](https://youtu.be/WbJfuyBGiaU)
 
 # Development Environment
 
-{Describe the tools tat you used to develop the software}
-
 I used VS Code as my preferred IDE to work on this project.
-
-{Describe the programming language that you used and any libraries.}
 
 I used the Java language with the HashMap built in function to create this software
 
@@ -27,8 +21,6 @@ I used the Java language with the HashMap built in function to create this softw
 - [W3 Schools](https://www.w3schools.com/java/default.asp)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - Have a menu list to enable the customer to choose from
 - Add a recipe for each meal/food in the menu with the right amount of ingredients
