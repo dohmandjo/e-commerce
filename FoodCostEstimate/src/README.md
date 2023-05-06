@@ -11,9 +11,11 @@ This software will help restaurants businesses to get a quick estimate of how mu
 # Development Environment
 
 {Describe the tools tat you used to develop the software}
+
 I used VS Code as my preferred IDE to work on this project.
 
 {Describe the programming language that you used and any libraries.}
+
 I used the Java language with the HashMap built in function to create this software
 
 # Useful Websites
